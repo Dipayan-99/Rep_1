@@ -1,5 +1,5 @@
-wap in js to capitalize every alternate char of a str given that char at the str only be letter or space
-var str="iamdivy";
+// wap in js to capitalize every alternate char of a str given that char at the str only be letter or space
+var str="iamdivyvhbknouhounj";
 var n_str="";
 for(var i=0 ; i < str.length ;i++){
     if(i%2 === 0){
